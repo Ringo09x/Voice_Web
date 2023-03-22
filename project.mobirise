@@ -58,7 +58,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishPath": "file:///D:/Downloads/1.0"
   },
   "pages": {
     "index.html": {
